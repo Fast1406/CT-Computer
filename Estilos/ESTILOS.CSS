@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+#contenedor{
+    width: 70%;
+    margin: auto;
+    border: 1px solid black;
+
+}
+header{
+    background: gray;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+}
+nav{
+    background: red;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+}
+main{
+    background: coral;
+    height: 1000px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+}
+
+
+
